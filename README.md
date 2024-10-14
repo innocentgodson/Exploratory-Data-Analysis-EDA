@@ -23,3 +23,10 @@ For this section, I worked with a data set that's aimed at predicting a numeric 
 - Matplotlib for additional plotting tools
 - MissingNo for missing data analysis and visualizations
 - fasteda for fast and easy EDA
+
+## Usage
+1. Run the Jupyter notebook `ignEDA.ipynb` to see the analysis.
+2. You can also run the `ignEDA.py` script directly.
+
+## License
+This project is licensed under the Apache 2.0 License.
