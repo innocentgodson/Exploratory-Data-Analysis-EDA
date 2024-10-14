@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-EDA
 
 ## Overview
-In this project, I conducted exploratory data analysis (EDA) on a dataset with the aim of developing a predictive model that is focused on regression. Simply put, a regression objective entails predicting a particular value for a numeric outcome variable, like a student's test score or a worker's income, based on various observable factors, called features.
+In this project, I conducted exploratory data analysis (EDA) on a dataset with the aim of developing a predictive model that is focused on regression. Simply put, a **regression** objective entails predicting a particular value for a numeric outcome variable, like a student's test score or a worker's income, based on various observable factors, called **features**.
 For this section, I worked with a data set that's aimed at predicting a numeric estimate of diabetes progression one year after a baseline. In other words, for each patient (observation), the goal is to predict a numeric score indicating diabetes progression one year after their blood pressure, body mass index, and blood sugar level were recorded.
 
 ## Objective
